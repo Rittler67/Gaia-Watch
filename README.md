@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @Rittler67, Ryan
-- 👀 I’m interested in Python just starting I am in love with AI and need to know everything I can lol I am a web designer with php and java experience.
+- 👀 🌍 Welcome to Gaia Watch 🌱
+We are a global initiative dedicated to protecting our planet through innovation and collaboration. If you're passionate about the environment and want to be part of a forward-thinking project that blends technology, sustainability, and community, join us. Together, we can make a meaningful difference.
+
+Whether you're an engineer, developer, or simply someone with a vision for a better future, we invite you to contribute to this shared mission.
+
+Let's build a better tomorrow, today. 💡✨
 - 🌱 I’m currently learning Python and AI
 - 💞️ We will be looking for anyone interested in saving our planet but especially programmers and engineers.  
 - 📫 How to reach me Ryan@gaia-watch.com
